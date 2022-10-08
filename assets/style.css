@@ -5,6 +5,7 @@
     background-color:rgb(226, 224, 224);
   }
 h1{
+    text-align: right;
     position: fixed;
     display: inline;
     top: 0;
@@ -13,7 +14,7 @@ h1{
     height: 100px;
     border-bottom: 10px solid darkblue;
     background-color: lightblue;
-    text-align: right;
+    
     
 }
 h2{
